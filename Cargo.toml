@@ -1,0 +1,9 @@
+[package]
+name = "mouse-glitch"
+version = "0.1.0"
+authors = ["Peter Farr <Peter@PrismaPhonic.com>"]
+edition = "2018"
+
+[dependencies]
+enigo = "0.0.12"
+rand = "0.6.4"
